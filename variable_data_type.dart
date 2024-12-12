@@ -10,4 +10,7 @@ void main(List<String> args) {
   List cars = ['honda', 'toyota', 'yamaha'];
 
   print('This is $name. he is $age');
+
+  //hằng số không thể thay đổi
+  const num pi = 3.14;
 }
